@@ -1,0 +1,17 @@
+{
+  "appName": "सिविक कनेक्ट",
+  "government": "झारखंड सरकार",
+  "welcome": "स्वागत है, {{name}}",
+  "phone": "फोन",
+  "fileComplaint": "शिकायत दर्ज करें",
+  "problemsRegistered": "रजिस्टर्ड समस्याएँ",
+  "trackYourComplaint": "अपनी शिकायत ट्रैक करें",
+  "defaulters": "डिफॉल्टर्स",
+  "verifyOtp": "ओटीपी सत्यापित करें",
+  "login": "लॉगिन",
+  "signup": "साइनअप",
+  "capturePhoto": "फ़ोटो कैप्चर करें (केवल कैमरा)",
+  "getLocation": "स्थान प्राप्त करें",
+  "submitComplaint": "शिकायत भेजें",
+  "missingFields": "रिक्त/अमान्य फ़ील्ड"
+}

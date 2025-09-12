@@ -1,0 +1,19 @@
+
+{
+  "appName": "Civic Connect",
+  "government": "Government of Jharkhand",
+  "welcome": "Welcome, {{name}}",
+  "phone": "Phone",
+  "fileComplaint": "File Complaint",
+  "problemsRegistered": "Problems Registered",
+  "trackYourComplaint": "Track Your Complaint",
+  "defaulters": "Defaulters",
+  "verifyOtp": "Verify OTP",
+  "login": "Login",
+  "signup": "Signup",
+  "capturePhoto": "Capture Photo (camera only)",
+  "getLocation": "Get Location",
+  "submitComplaint": "Submit Complaint",
+  "missingFields": "Missing/invalid fields"
+}
+
