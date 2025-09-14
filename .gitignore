@@ -4,6 +4,15 @@
 .DS_Store
 ._*
 
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
 # dependencies
 /node_modules
 /.pnp
